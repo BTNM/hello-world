@@ -1,4 +1,8 @@
 # hello-world
 Test repository
 
-have to test ome more time
+
+adding som text to file,
+just to ttest
+heahhaha
+
